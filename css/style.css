@@ -367,3 +367,9 @@ button {
   align-items: center;
   justify-content: center;
 }
+
+@media screen and (max-width: 1035px) {
+  #hero__animation {
+    margin-left: 11.6vw;
+  }
+}
